@@ -12,7 +12,7 @@ email: tjc@wintrmute.net
 description: >-
   A loose collection of pages and blog posts by Toby "Wintrmute" Corkindale
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tjc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.dryft.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: wint_rmute
 github_username:  tjc
 
