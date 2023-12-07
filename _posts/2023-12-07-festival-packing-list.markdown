@@ -34,6 +34,9 @@ Some items are optional, but I figure it's better to have everything listed, and
  - Water bottle
  - Sunscreen
  - Lip balm
+ - Insect repellant
+ - Sunglasses
+ - Volume-reducing earplugs, if music festival
 
 ## Coffee
  - Coffee beans or ground coffee
@@ -100,10 +103,12 @@ This is going to be very person specific, but don't forget:
  - Jumper cables / jumpstarter
  - Tyre pressure gauge
  - Tyre inflator
+ - Spare key
 
 ## Caravan / Campervan specific
  - Leveling ramps
  - Recovery track, if muddy conditions
+ - Wheel chocks
 
 ## Tools
  - CB radios
